@@ -1,0 +1,1 @@
+"""Validated access to DemoKart operational data."""

@@ -1,0 +1,13 @@
+RuleID,Condition,Eligibility,Action,Priority,RequiresVerification,EscalationRequired,Description
+RULE001,Lost in Transit,Eligible,Process Refund,High,Yes,No,Refund may be processed after verification
+RULE002,Damaged Product,Eligible,Process Refund,High,Yes,No,Damaged product may qualify for refund
+RULE003,Defective Product,Eligible,Process Refund,High,Yes,No,Defective product may qualify for refund
+RULE004,Delivered and No Issue,Not Eligible,Reject Refund,Medium,No,No,Refund not normally applicable
+RULE005,Cancelled Before Dispatch,Eligible,Process Refund,Medium,Yes,No,Refund processed according to cancellation policy
+RULE006,Cancelled After Dispatch,Conditional,Human Review,High,Yes,Yes,Cancellation depends on order status
+RULE007,Missing Order Information,Unknown,Request Information,Medium,No,No,Order information is required
+RULE008,Refund Already Processed,Not Eligible,Escalate,High,Yes,Yes,Duplicate refund request requires review
+RULE009,Non Returnable Product,Conditional,Human Review,Medium,Yes,Yes,Category-specific policy may apply
+RULE010,Product Used Beyond Allowed Condition,Not Eligible,Reject Refund,Medium,Yes,No,Return condition not satisfied
+RULE011,Missing Components,Conditional,Partial Refund or Review,Medium,Yes,Yes,Refund amount depends on circumstances
+RULE012,Policy Exception,Unknown,Human Review,High,Yes,Yes,Exception requires human review

@@ -1,0 +1,74 @@
+DemoKart
+Cancellation & Return Policy
+Effective for purchases made through DemoKart
+
+1. Cancellation Policy
+
+1.1 Cancellation before dispatch
+A customer may request cancellation of an order before it reaches a stage where cancellation is no longer supported. The availability of cancellation depends on the current order status.
+
+1.2 Cancellation after processing
+Once an order has been processed, packed, shipped, or otherwise moved into a stage where cancellation is unavailable, the customer may not be able to cancel the order. Where applicable, the customer may instead initiate a return after delivery.
+
+1.3 Cancellation request
+Customers can initiate an eligible cancellation from the order details or customer support section. The cancellation option may not be displayed when the order is no longer eligible for cancellation.
+
+2. Return Policy
+
+2.1 Eligibility
+A return may be requested when the purchased product is covered by the applicable return policy. Eligibility can depend on the product category, seller, order, and reason for return.
+
+2.2 Common reasons for return
+Eligible return or replacement requests may include a defective product, damage during shipping, a missing item or component, or an incorrect product being delivered.
+
+2.3 Return period
+The applicable return period is determined by the product and order. Customers should check the return information displayed for the specific product or order before submitting a request.
+
+2.4 Product condition
+The returned product must satisfy the applicable return conditions. Depending on the product category, this may require the item to be unused or undamaged and to include original packaging, accessories, labels, or other required documentation.
+
+3. Replacement Policy
+For eligible products, a customer may receive a replacement instead of a refund. Replacement availability depends on the product and the applicable order policy. Typical reasons may include damage during shipping, a defective item, missing items, or an incorrect item being delivered.
+
+A replacement request is subject to the applicable request window and verification requirements. Where replacement is unavailable, another eligible resolution may be offered according to the order policy.
+
+4. Refund Policy
+Where a return is accepted and the applicable resolution is a refund, the refund is processed according to the payment method and the applicable refund procedure. A refund is subject to successful return eligibility and any required verification.
+
+A return request does not by itself guarantee a refund. The final resolution depends on the applicable product and order policy.
+
+5. Product Category Conditions
+
+Product category: Electronics
+General return condition: Product and included components should satisfy the applicable return requirements.
+
+Product category: Clothing & Footwear
+General return condition: Product should generally be new and unworn, except where trial is permitted.
+
+Product category: Beauty, Health & Personal Care
+General return condition: Product should generally be new and unopened where required.
+
+Product category: Sports & Equipment
+General return condition: Product should generally be new and returned with required original packaging.
+
+Product category: Office Products
+General return condition: Product should generally be new and returned with required original packaging.
+
+Product category: Jewellery
+General return condition: Product should generally be new and returned with required original packaging.
+
+6. Non-Returnable or Restricted Items
+Some products or product categories may not be eligible for return, or may have a replacement-only or category-specific policy. Customers should review the return conditions displayed for the individual product before purchase and before initiating a return.
+
+7. Return Request Process
+Step 1: Open the relevant order in the DemoKart account.
+Step 2: Select the available return, replacement, refund, or support option.
+Step 3: Select the applicable reason for the request.
+Step 4: Follow the instructions provided for pickup, return shipment, verification, or replacement.
+Step 5: The applicable resolution is processed after the required return and verification steps are completed.
+
+8. Policy Exceptions
+Special sale events, promotional periods, sellers, and individual product categories may have separate or modified cancellation, return, replacement, or refund conditions. Where a product-specific policy differs from this general policy, the product or order-specific terms apply.
+
+9. Customer Support
+Customers who need assistance with cancellation, returns, replacements, refunds, or order issues should contact DemoKart Customer Support through the Help Centre or the support option available with the relevant order.

@@ -1,0 +1,1 @@
+CaseID,CustomerID,OrderID,IssueType,CaseStatus,ResolutionStatus,Priority,Confidence,PendingAction,Resolution,CreatedAt,UpdatedAt

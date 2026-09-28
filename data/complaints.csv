@@ -1,0 +1,45 @@
+ComplaintID,CaseID,CustomerID,OrderID,ComplaintType,Description,Severity,Status,CreatedAt
+COMP001,CASE001,CUST001,ORD1001,Late Delivery,Order arrived later than expected,Medium,Closed,2026-08-30
+COMP002,CASE002,CUST002,ORD1003,Order Not Received,Order has not arrived and tracking shows lost in transit,High,Open,2026-09-03
+COMP003,CASE003,CUST003,ORD1004,Delayed Delivery,Order is delayed beyond expected delivery date,Medium,Open,2026-09-05
+COMP004,CASE004,CUST004,ORD1005,Cancellation,Customer requested cancellation,Low,Closed,2026-08-21
+COMP005,CASE011,CUST021,ORD1099,Cancellation,Customer requested cancellation,Medium,Open,2026-08-29
+COMP006,CASE017,CUST038,ORD1040,Late Delivery,Order arrived later than expected,Critical,Open,2026-08-28
+COMP007,CASE024,CUST010,ORD1100,Refund Request,Customer requested a refund for the order,Low,Closed,2026-08-23
+COMP008,CASE034,CUST039,ORD1013,Order Not Received,Order has not arrived and customer cannot locate the package,High,Escalated,2026-08-30
+COMP009,CASE006,CUST046,ORD1020,Delayed Delivery,Order is delayed beyond expected delivery date,High,Escalated,2026-08-23
+COMP010,CASE029,CUST033,ORD1048,Refund Request,Customer requested a refund for the order,Medium,Open,2026-08-23
+COMP011,CASE028,CUST001,ORD1036,Order Not Received,Order has not arrived and customer cannot locate the package,Medium,Open,2026-09-01
+COMP012,CASE029,CUST033,ORD1048,Defective Product,Product is not functioning as expected,Low,Open,2026-08-23
+COMP013,CASE027,CUST033,ORD1073,Late Delivery,Order arrived later than expected,Critical,Open,2026-08-31
+COMP014,CASE033,CUST028,ORD1037,Defective Product,Product is not functioning as expected,Medium,Escalated,2026-09-03
+COMP015,CASE025,CUST014,ORD1045,Order Not Received,Order has not arrived and customer cannot locate the package,High,Open,2026-08-25
+COMP016,CASE015,CUST044,ORD1007,Late Delivery,Order arrived later than expected,High,Open,2026-08-29
+COMP017,CASE007,CUST033,ORD1048,Defective Product,Product is not functioning as expected,Medium,Closed,2026-09-07
+COMP018,CASE009,CUST018,ORD1065,Late Delivery,Order arrived later than expected,High,Closed,2026-08-25
+COMP019,CASE031,CUST039,ORD1008,Delayed Delivery,Order is delayed beyond expected delivery date,Critical,Escalated,2026-08-24
+COMP020,CASE029,CUST033,ORD1048,Late Delivery,Order arrived later than expected,Low,Open,2026-08-23
+COMP021,CASE002,CUST002,ORD1003,Damaged Product,Product arrived damaged,Medium,Open,2026-09-03
+COMP022,CASE010,CUST023,ORD1072,Refund Request,Customer requested a refund for the order,Critical,Open,2026-08-24
+COMP023,CASE008,CUST018,ORD1053,Damaged Product,Product arrived damaged,Medium,Open,2026-09-03
+COMP024,CASE020,CUST013,ORD1086,Order Not Received,Order has not arrived and customer cannot locate the package,Low,Open,2026-08-23
+COMP025,CASE016,CUST013,ORD1028,Wrong Product,Received a different product than ordered,Critical,Open,2026-09-01
+COMP026,CASE005,CUST038,ORD1059,Order Not Received,Order has not arrived and customer cannot locate the package,Critical,Escalated,2026-09-03
+COMP027,CASE039,CUST021,ORD1099,Refund Request,Customer requested a refund for the order,Low,Closed,2026-09-02
+COMP028,CASE033,CUST028,ORD1037,Cancellation,Customer requested cancellation,Medium,Escalated,2026-09-03
+COMP029,CASE019,CUST001,ORD1056,Wrong Product,Received a different product than ordered,Low,Closed,2026-08-25
+COMP030,CASE040,CUST049,ORD1006,Defective Product,Product is not functioning as expected,Medium,Escalated,2026-09-01
+COMP031,CASE037,CUST038,ORD1040,Wrong Product,Received a different product than ordered,Medium,Closed,2026-08-27
+COMP032,CASE006,CUST046,ORD1020,Refund Request,Customer requested a refund for the order,High,Escalated,2026-08-23
+COMP033,CASE005,CUST038,ORD1059,Refund Request,Customer requested a refund for the order,Low,Escalated,2026-09-03
+COMP034,CASE025,CUST014,ORD1045,Missing Item,One or more items or components are missing,Low,Open,2026-08-25
+COMP035,CASE025,CUST014,ORD1045,Defective Product,Product is not functioning as expected,High,Open,2026-08-25
+COMP036,CASE002,CUST002,ORD1003,Defective Product,Product is not functioning as expected,Low,Open,2026-09-03
+COMP037,CASE023,CUST043,ORD1076,Cancellation,Customer requested cancellation,Low,Escalated,2026-09-06
+COMP038,CASE038,CUST046,ORD1020,Defective Product,Product is not functioning as expected,Medium,Open,2026-08-30
+COMP039,CASE003,CUST003,ORD1004,Defective Product,Product is not functioning as expected,High,Open,2026-09-05
+COMP040,CASE012,CUST014,ORD1045,Missing Item,One or more items or components are missing,Critical,Open,2026-08-26
+COMP041,CASE041,CUST002,ORD1003,Customer Complaint,Can I get a refund for my lost order ORD1003?,Medium,Open,2026-09-08
+COMP042,CASE043,CUST009,ORD1027,Customer Complaint,"My order ORD1027 is delayed.
+Can I cancel it?
+If not, can I get a refund?",Medium,Open,2026-09-08

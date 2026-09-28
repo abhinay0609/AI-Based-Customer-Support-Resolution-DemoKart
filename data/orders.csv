@@ -1,0 +1,101 @@
+OrderID,CustomerID,Product,ProductCategory,OrderDate,Status,Amount,PaymentMethod,ExpectedDeliveryDate,ActualDeliveryDate
+ORD1001,CUST001,Laptop,Electronics,2026-08-25,Delivered,65000,Card,2026-08-30,2026-08-29
+ORD1002,CUST001,Wireless Headphones,Electronics,2026-09-01,In Transit,5000,UPI,2026-09-07,
+ORD1003,CUST002,Mobile Phone,Electronics,2026-08-28,Lost in Transit,45000,Card,2026-09-03,
+ORD1004,CUST003,Running Shoes,Clothing & Footwear,2026-08-30,Delayed,12000,UPI,2026-09-04,
+ORD1005,CUST004,Office Chair,Office Products,2026-08-20,Cancelled,8000,Net Banking,2026-08-25,
+ORD1006,CUST049,Laptop,Electronics,2026-08-08,Delivered,65000,UPI,2026-08-12,2026-08-10
+ORD1007,CUST044,Bluetooth Speaker,Electronics,2026-08-05,Processing,6000,Wallet,2026-08-11,
+ORD1008,CUST039,Backpack,Clothing & Footwear,2026-09-03,Delivered,2500,Card,2026-09-08,2026-09-06
+ORD1009,CUST044,Fitness Band,Sports & Equipment,2026-08-08,Shipped,3500,Net Banking,2026-08-15,
+ORD1010,CUST050,Coffee Maker,Home & Kitchen,2026-08-22,Delayed,7000,Wallet,2026-08-27,
+ORD1011,CUST011,Backpack,Clothing & Footwear,2026-08-01,Delivered,2500,UPI,2026-08-06,2026-08-04
+ORD1012,CUST033,Mixer Grinder,Home & Kitchen,2026-08-07,Shipped,5500,Cash on Delivery,2026-08-12,
+ORD1013,CUST039,Running Shoes,Clothing & Footwear,2026-08-10,Delivered,12000,Cash on Delivery,2026-08-15,2026-08-15
+ORD1014,CUST050,Mixer Grinder,Home & Kitchen,2026-09-03,Delivered,5500,Net Banking,2026-09-06,2026-09-04
+ORD1015,CUST032,Laptop,Electronics,2026-08-08,Delivered,65000,UPI,2026-08-13,2026-08-12
+ORD1016,CUST004,Running Shoes,Clothing & Footwear,2026-08-06,Out for Delivery,12000,Wallet,2026-08-09,
+ORD1017,CUST005,Desk Lamp,Office Products,2026-09-04,Out for Delivery,1800,UPI,2026-09-08,
+ORD1018,CUST043,Backpack,Clothing & Footwear,2026-09-05,Cancelled,2500,Net Banking,2026-09-10,
+ORD1019,CUST034,T-Shirt,Clothing & Footwear,2026-08-28,Delayed,1200,UPI,2026-09-04,
+ORD1020,CUST046,Office Chair,Office Products,2026-08-26,In Transit,8000,Wallet,2026-08-31,
+ORD1021,CUST034,Backpack,Clothing & Footwear,2026-08-08,In Transit,2500,UPI,2026-08-12,
+ORD1022,CUST005,Smart Watch,Electronics,2026-08-02,Shipped,9000,Cash on Delivery,2026-08-09,
+ORD1023,CUST015,Monitor,Electronics,2026-08-15,In Transit,18000,Card,2026-08-18,
+ORD1024,CUST046,Coffee Maker,Home & Kitchen,2026-08-04,Lost in Transit,7000,Card,2026-08-08,
+ORD1025,CUST003,T-Shirt,Clothing & Footwear,2026-08-22,Delayed,1200,UPI,2026-08-29,
+ORD1026,CUST018,Coffee Maker,Home & Kitchen,2026-09-01,Out for Delivery,7000,Cash on Delivery,2026-09-05,
+ORD1027,CUST009,Fitness Band,Sports & Equipment,2026-08-31,Delayed,3500,Wallet,2026-09-06,
+ORD1028,CUST013,Wireless Headphones,Electronics,2026-08-07,In Transit,5000,Net Banking,2026-08-13,
+ORD1029,CUST028,Bluetooth Speaker,Electronics,2026-08-30,Cancelled,6000,Card,2026-09-04,
+ORD1030,CUST004,Bluetooth Speaker,Electronics,2026-08-22,In Transit,6000,UPI,2026-08-25,
+ORD1031,CUST013,Running Shoes,Clothing & Footwear,2026-09-04,Processing,12000,UPI,2026-09-10,
+ORD1032,CUST028,Mobile Phone,Electronics,2026-08-18,Out for Delivery,45000,UPI,2026-08-24,
+ORD1033,CUST005,Backpack,Clothing & Footwear,2026-09-05,Delivered,2500,Cash on Delivery,2026-09-08,2026-09-08
+ORD1034,CUST001,Wireless Headphones,Electronics,2026-08-16,Delivered,5000,Wallet,2026-08-20,2026-08-19
+ORD1035,CUST031,Running Shoes,Clothing & Footwear,2026-08-26,Delivered,12000,Wallet,2026-08-29,2026-08-29
+ORD1036,CUST001,Bluetooth Speaker,Electronics,2026-08-17,Out for Delivery,6000,Net Banking,2026-08-23,
+ORD1037,CUST028,Fitness Band,Sports & Equipment,2026-09-05,Lost in Transit,3500,UPI,2026-09-11,
+ORD1038,CUST013,Office Chair,Office Products,2026-08-14,Delivered,8000,Cash on Delivery,2026-08-17,2026-08-15
+ORD1039,CUST004,Fitness Band,Sports & Equipment,2026-08-21,Cancelled,3500,Card,2026-08-26,
+ORD1040,CUST038,Backpack,Clothing & Footwear,2026-09-02,Shipped,2500,UPI,2026-09-09,
+ORD1041,CUST004,Keyboard,Electronics,2026-08-06,In Transit,3000,Card,2026-08-10,
+ORD1042,CUST039,Wireless Headphones,Electronics,2026-08-16,Shipped,5000,Card,2026-08-22,
+ORD1043,CUST037,Running Shoes,Clothing & Footwear,2026-08-03,In Transit,12000,Card,2026-08-10,
+ORD1044,CUST027,Coffee Maker,Home & Kitchen,2026-09-03,Out for Delivery,7000,Net Banking,2026-09-08,
+ORD1045,CUST014,Coffee Maker,Home & Kitchen,2026-08-21,Shipped,7000,Net Banking,2026-08-25,
+ORD1046,CUST026,Mobile Phone,Electronics,2026-08-20,Delivered,45000,Card,2026-08-26,2026-08-25
+ORD1047,CUST001,Backpack,Clothing & Footwear,2026-08-07,Delivered,2500,UPI,2026-08-10,2026-08-08
+ORD1048,CUST033,Office Chair,Office Products,2026-08-09,Delivered,8000,UPI,2026-08-14,2026-08-14
+ORD1049,CUST024,Office Chair,Office Products,2026-08-11,Processing,8000,Cash on Delivery,2026-08-17,
+ORD1050,CUST046,Office Chair,Office Products,2026-09-03,In Transit,8000,Cash on Delivery,2026-09-06,
+ORD1051,CUST020,Mixer Grinder,Home & Kitchen,2026-08-07,Lost in Transit,5500,Net Banking,2026-08-11,
+ORD1052,CUST008,Mixer Grinder,Home & Kitchen,2026-08-07,Out for Delivery,5500,UPI,2026-08-14,
+ORD1053,CUST018,Office Chair,Office Products,2026-08-14,Processing,8000,UPI,2026-08-19,
+ORD1054,CUST044,Coffee Maker,Home & Kitchen,2026-08-17,Delivered,7000,Net Banking,2026-08-24,2026-08-23
+ORD1055,CUST004,Wireless Headphones,Electronics,2026-08-28,Shipped,5000,Card,2026-09-02,
+ORD1056,CUST001,Smart Watch,Electronics,2026-08-09,In Transit,9000,UPI,2026-08-14,
+ORD1057,CUST048,Backpack,Clothing & Footwear,2026-09-05,Delivered,2500,Card,2026-09-11,2026-09-09
+ORD1058,CUST008,Wireless Headphones,Electronics,2026-08-10,Delivered,5000,Net Banking,2026-08-17,2026-08-17
+ORD1059,CUST038,Keyboard,Electronics,2026-08-10,Shipped,3000,UPI,2026-08-16,
+ORD1060,CUST003,Office Chair,Office Products,2026-08-24,Delivered,8000,UPI,2026-08-27,2026-08-26
+ORD1061,CUST044,Running Shoes,Clothing & Footwear,2026-08-07,Shipped,12000,Cash on Delivery,2026-08-12,
+ORD1062,CUST027,Monitor,Electronics,2026-08-10,Processing,18000,UPI,2026-08-14,
+ORD1063,CUST012,Mixer Grinder,Home & Kitchen,2026-08-27,Processing,5500,UPI,2026-08-30,
+ORD1064,CUST048,Mixer Grinder,Home & Kitchen,2026-08-22,Delivered,5500,UPI,2026-08-28,2026-08-26
+ORD1065,CUST018,Mobile Phone,Electronics,2026-08-07,Delayed,45000,Wallet,2026-08-10,
+ORD1066,CUST015,Running Shoes,Clothing & Footwear,2026-08-30,Shipped,12000,Net Banking,2026-09-04,
+ORD1067,CUST015,Running Shoes,Clothing & Footwear,2026-08-02,Delayed,12000,Net Banking,2026-08-08,
+ORD1068,CUST018,T-Shirt,Clothing & Footwear,2026-08-05,Out for Delivery,1200,Net Banking,2026-08-10,
+ORD1069,CUST042,Keyboard,Electronics,2026-08-26,Cancelled,3000,Net Banking,2026-08-31,
+ORD1070,CUST002,Wireless Headphones,Electronics,2026-08-17,Shipped,5000,Cash on Delivery,2026-08-21,
+ORD1071,CUST017,Laptop,Electronics,2026-08-07,Processing,65000,Wallet,2026-08-14,
+ORD1072,CUST023,Fitness Band,Sports & Equipment,2026-08-21,Lost in Transit,3500,Cash on Delivery,2026-08-27,
+ORD1073,CUST033,Wireless Headphones,Electronics,2026-08-25,Delivered,5000,Net Banking,2026-09-01,2026-09-01
+ORD1074,CUST003,Fitness Band,Sports & Equipment,2026-08-28,Lost in Transit,3500,Cash on Delivery,2026-08-31,
+ORD1075,CUST035,Coffee Maker,Home & Kitchen,2026-08-13,Delivered,7000,Card,2026-08-18,2026-08-17
+ORD1076,CUST043,Mixer Grinder,Home & Kitchen,2026-08-22,Cancelled,5500,Net Banking,2026-08-27,
+ORD1077,CUST043,T-Shirt,Clothing & Footwear,2026-08-08,In Transit,1200,Cash on Delivery,2026-08-13,
+ORD1078,CUST020,Coffee Maker,Home & Kitchen,2026-08-27,Delivered,7000,Net Banking,2026-09-01,2026-08-31
+ORD1079,CUST036,Mobile Phone,Electronics,2026-08-13,Delayed,45000,UPI,2026-08-19,
+ORD1080,CUST040,Monitor,Electronics,2026-08-20,Delayed,18000,Card,2026-08-27,
+ORD1081,CUST020,Office Chair,Office Products,2026-08-14,Delivered,8000,Cash on Delivery,2026-08-20,2026-08-18
+ORD1082,CUST042,Smart Watch,Electronics,2026-08-30,In Transit,9000,Wallet,2026-09-05,
+ORD1083,CUST044,Running Shoes,Clothing & Footwear,2026-09-02,In Transit,12000,UPI,2026-09-08,
+ORD1084,CUST043,Wireless Headphones,Electronics,2026-08-19,Cancelled,5000,Cash on Delivery,2026-08-24,
+ORD1085,CUST022,Wireless Headphones,Electronics,2026-08-16,Lost in Transit,5000,UPI,2026-08-21,
+ORD1086,CUST013,Mobile Phone,Electronics,2026-08-02,Processing,45000,UPI,2026-08-05,
+ORD1087,CUST031,Monitor,Electronics,2026-08-05,Delivered,18000,Cash on Delivery,2026-08-11,2026-08-10
+ORD1088,CUST013,Fitness Band,Sports & Equipment,2026-08-25,Delayed,3500,UPI,2026-08-31,
+ORD1089,CUST010,Coffee Maker,Home & Kitchen,2026-08-01,Shipped,7000,Wallet,2026-08-04,
+ORD1090,CUST015,Mobile Phone,Electronics,2026-09-03,Delivered,45000,Cash on Delivery,2026-09-09,2026-09-09
+ORD1091,CUST016,Mixer Grinder,Home & Kitchen,2026-08-08,Cancelled,5500,UPI,2026-08-13,
+ORD1092,CUST030,Coffee Maker,Home & Kitchen,2026-09-03,Shipped,7000,Cash on Delivery,2026-09-10,
+ORD1093,CUST021,Desk Lamp,Office Products,2026-08-29,Shipped,1800,Cash on Delivery,2026-09-05,
+ORD1094,CUST028,T-Shirt,Clothing & Footwear,2026-09-05,In Transit,1200,UPI,2026-09-11,
+ORD1095,CUST048,T-Shirt,Clothing & Footwear,2026-08-31,In Transit,1200,Net Banking,2026-09-06,
+ORD1096,CUST049,Running Shoes,Clothing & Footwear,2026-08-18,In Transit,12000,Wallet,2026-08-25,
+ORD1097,CUST041,Running Shoes,Clothing & Footwear,2026-08-18,Lost in Transit,12000,Card,2026-08-24,
+ORD1098,CUST046,Office Chair,Office Products,2026-08-16,Processing,8000,Net Banking,2026-08-21,
+ORD1099,CUST003,Laptop,Electronics,2026-09-04,Shipped,65000,UPI,2026-09-07,
+ORD1100,CUST010,Running Shoes,Clothing & Footwear,2026-08-25,Delayed,12000,Card,2026-08-29,
